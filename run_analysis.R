@@ -1,5 +1,3 @@
-setwd("D:/MOOC/Coursera/stats spec/get.clean/project/dataset")
-
 #load the column names for X variables and level designations for Y variables (activity) [test data]
 feat <- read.table("features.txt")
 act <- read.table("activity_labels.txt")
